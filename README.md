@@ -9,7 +9,7 @@ Built with **Next.js, Tailwind CSS, Express, and MongoDB**.
 - **AI Mood Analysis** – Detects mood from journal entries.  
 - **Supportive Suggestions** – Provides empathetic tips for self-care.  
 - **Mood Tracking** – Visual charts to track progress over time.  
-- **History View** – Review past journal entries and emotional patterns.  
+- **History View** – Review past journal entries and emotional patterns.
 
 ---
 
