@@ -1,4 +1,4 @@
-# 🧠 MindSoothe Journal
+# MindSoothe Journal
 
 An **AI-powered journaling companion** that helps users reflect on their emotions, track their mood patterns, and receive supportive suggestions for mental wellness.  
 Built with **Next.js, Tailwind CSS, Express, and MongoDB**.
@@ -6,10 +6,10 @@ Built with **Next.js, Tailwind CSS, Express, and MongoDB**.
 ---
 
 ## ✨ Features
-- 📓 **AI Mood Analysis** – Detects mood from journal entries.  
-- 💡 **Supportive Suggestions** – Provides empathetic tips for self-care.  
-- 📊 **Mood Tracking** – Visual charts to track progress over time.  
-- 🕒 **History View** – Review past journal entries and emotional patterns.  
+- **AI Mood Analysis** – Detects mood from journal entries.  
+- **Supportive Suggestions** – Provides empathetic tips for self-care.  
+- **Mood Tracking** – Visual charts to track progress over time.  
+- **History View** – Review past journal entries and emotional patterns.  
 
 ---
 
