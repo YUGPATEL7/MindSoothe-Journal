@@ -23,7 +23,7 @@ export default function Footer() {
           <div className="flex items-center gap-2 text-gray-600">
             <Heart className="w-4 h-4 text-red-500" />
             <p className="text-sm">
-              Made with care for mental wellness © 2024 MindSoothe Journal
+              Made with care for mental wellness © 2025 MindSoothe Journal
             </p>
           </div>
           
